@@ -1,4 +1,4 @@
-# Unhinted Iosevka Fixed SS15 WebFont 21.1.1
+# Unhinted Iosevka Fixed SS15 WebFont 22.0.0
 
 ## How to use
 
